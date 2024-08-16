@@ -1,3 +1,4 @@
 Учимся работать с коммандной строкой
 Create repository
 Add first commit
+Create SSH
