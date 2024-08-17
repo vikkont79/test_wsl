@@ -3,3 +3,4 @@ Create repository
 Add first commit
 Create SSH
 Push to origin
+Create new commit
